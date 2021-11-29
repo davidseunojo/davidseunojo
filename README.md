@@ -1,0 +1,5 @@
+- 👋 Hi, I’m David Seun Ojo.
+- 👀 I’m interested in software development with react js, python, c#, java and php.
+- 🌱 I’m currently learning Reliable Microservices Data Exchange With the Outbox Pattern using Apache Kafka and Debezium.
+- 💞️ I’m looking to collaborate and work on large scale projects.
+- 📫 Reach me by phone: +2348138638547 or by email: oseunbrianj4@gmail.com
